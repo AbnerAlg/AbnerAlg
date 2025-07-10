@@ -56,7 +56,7 @@
  
  <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbnerAlg&theme=github_dark)
   
  </div>
  
@@ -64,7 +64,7 @@
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=AbnerAlg&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
  
