@@ -16,8 +16,9 @@
 <p align="center">
   <a href="https://github.com/AbnerAlg" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=AbnerAlg"></a>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+
 
 - 👨‍💻 Currently as a software engineer I focus on web development with modern technologies such as HTML, CSS and JavaScript.
 - 💬 I'm also improving my English to strengthen my ability to work in international and collaborative environments. 
